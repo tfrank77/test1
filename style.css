@@ -1,0 +1,21 @@
+div {
+
+}
+
+.text {
+    background-color: coral;
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    font-size: 36px;
+}
+p {
+    font-size: 24px;
+}
+.map {
+    height: 500px;
+    padding: 0px;
+    margin: 0px;
+
+}
